@@ -35,7 +35,8 @@ This project involves the development of a comprehensive Organ Donation Website 
 2. **Database Configuration :**
    </br>
 -Set up a MySQL database and configure the connection in connection.php.
-4. **Run the Project:**
+</br>
+3. **Run the Project:**
  </br>
 -Place the project files in the root directory of your web server (e.g., XAMPP, WampServer).
  </br>
