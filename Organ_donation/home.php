@@ -89,7 +89,7 @@ include_once('helper/header.php');
 
     h3 {
         font-size: 1.5rem;
-        color: #000000;
+        color: white;
         margin-bottom: 15px;
     }
 
