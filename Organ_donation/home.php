@@ -9,7 +9,10 @@ include_once('helper/header.php');
         margin: 0;
         padding: 0;
     }
-
+    strong
+{
+    color:white;
+}
     #hero {
         text-align: center;
         padding: 100px 20px;
